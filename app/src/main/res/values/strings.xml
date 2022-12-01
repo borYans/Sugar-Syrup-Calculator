@@ -1,0 +1,17 @@
+<resources>
+  <string name="app_name">Sugar Syrup Calculator</string>
+  <string name="number_of_hives_hint">Number of hives to feed</string>
+  <string name="syrup_calculator_title">Sugar Syrup Calculator</string>
+  <string name="volume_of_syrup_hint">Volume of syrup per hive in MILLILITRES</string>
+  <string name="volume_of_syrup_hint_in_litres">Volume of syrup per hive in LITRES</string>
+  <string name="one_one_ratio">1:1 Ratio</string>
+  <string name="two_one_ratio">2:1 Ratio</string>
+  <string name="three_two_ratio">3:2 Ratio</string>
+  <string name="calculate_button_text">Calculate Ratio</string>
+  <string name="result_placeholder">Result will be shown here.</string>
+  <string name="water_result_text">Water [L]</string>
+  <string name="sugar_result_text">Sugar [Kg]</string>
+  <string name="total_syrup_result_text">Total Syrup [L]</string>
+  <string name="litres_text">Litres</string>
+  <string name="millilitres_text">Millilitres</string>
+</resources>

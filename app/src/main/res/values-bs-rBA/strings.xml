@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Sugar Syrup Calculator</string>
+  <string name="one_one_ratio">1:1 Omjer</string>
+  <string name="two_one_ratio">2:1 Omjer</string>
+  <string name="three_two_ratio">3:2 Omjer</string>
+  <string name="number_of_hives_hint">Broj košnica za prihranu</string>
+  <string name="volume_of_syrup_hint">Količina sirupa PO KOŠNICI u MILILITRIMA</string>
+  <string name="calculate_button_text">Izračunaj</string>
+  <string name="syrup_calculator_title">Sirup Kalkulator</string>
+  <string name="result_placeholder">Rezultati će biti prikazani ovdje.</string>
+  <string name="water_result_text">Voda [L]</string>
+  <string name="sugar_result_text">Šećer [Kg]</string>
+  <string name="total_syrup_result_text">Ukupno sirup [L]</string>
+  <string name="volume_of_syrup_hint_in_litres">Količina sirupa PO KOŠNICI u LITRIMA</string>
+  <string name="litres_text">U litrima</string>
+  <string name="millilitres_text">U mililitrima</string>
+
+</resources>

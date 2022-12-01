@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Sugar Syrup Calculator</string>
+  <string name="number_of_hives_hint">Број кошница за прихрану</string>
+  <string name="syrup_calculator_title">Сируп Калкулатор</string>
+  <string name="volume_of_syrup_hint">Волумен сирупа ПО КОШНИЦИ у МИЛИЛИТРИМА</string>
+  <string name="one_one_ratio">1:1 Однос</string>
+  <string name="two_one_ratio">2:1 Однос</string>
+  <string name="three_two_ratio">3:2 Однос</string>
+  <string name="calculate_button_text">Израчунај</string>
+  <string name="result_placeholder">Резултати ће бити приказани овде.</string>
+  <string name="water_result_text">Вода [Л]</string>
+  <string name="sugar_result_text">Шећер [Кг]</string>
+  <string name="total_syrup_result_text">Укупно сируп [Л]</string>
+  <string name="volume_of_syrup_hint_in_litres">Волумен сирупа ПО КОШНИЦИ у ЛИТРИМА</string>
+  <string name="litres_text">У литрима</string>
+  <string name="millilitres_text">У милилитрима</string>
+</resources>
